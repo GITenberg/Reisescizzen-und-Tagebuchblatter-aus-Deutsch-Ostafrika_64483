@@ -1,11 +1,16 @@
 _repo: Reisescizzen-und-Tagebuchblatter-aus-Deutsch-Ostafrika_64483
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64483-h/images/cover.jpg
 creator:
   author:
     agent_name: Bülow, Frieda von
     gutenberg_agent_id: '52922'
     url: http://www.gutenberg.org/2009/agents/52922
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64483#Reisescizzen-und-Tagebuchblatter-aus-Deutsch-Ostafrika
 gutenberg_issued: '2021-02-07'
 gutenberg_type: Text
 identifiers:
